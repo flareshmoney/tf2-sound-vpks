@@ -9,3 +9,6 @@ removes siren at the start of the round
 
 # nostartwhistle
 removes pass time's ball spawn whistle
+
+# silenterstartwhistle
+makes the pass time start whistle less loud
