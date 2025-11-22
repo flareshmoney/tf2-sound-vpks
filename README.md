@@ -7,20 +7,20 @@ just put these in your tf/custom folder
 ## nosiren
 removes siren at the start of the round
 
-# nostartwhistle
+## nostartwhistle
 removes pass time's ball spawn whistle
 
-# silenterstartwhistle
+## silenterstartwhistle
 makes the pass time start whistle less loud
 
-# evensilenterstartwhistle
+## evensilenterstartwhistle
 makes the pass time start whistle a lot less loud
 
-# noambience
+## noambience
 removes the ambience from maps
 credit to user "install gentoo" on gamebanana who made this in 2011, I just cleaned it up and made it into a VPK.
 (Original Gentoo download https://gamebanana.com/sounds/15595)
 
-# no domination sounds
+## no domination sounds
 removes the domination, revenge, nemisis sounds
 still shows dom notifs in killfeed and on scoreboard.
