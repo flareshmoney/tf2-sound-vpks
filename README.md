@@ -4,7 +4,7 @@ Peace and quiet
 # how to install
 just put these in your tf/custom folder
 
-# nosiren
+## nosiren
 removes siren at the start of the round
 
 # nostartwhistle
