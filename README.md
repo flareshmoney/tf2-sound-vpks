@@ -22,5 +22,5 @@ credit to user "install gentoo" on gamebanana who made this in 2011, I just clea
 (Original Gentoo download https://gamebanana.com/sounds/15595)
 
 ## no domination sounds
-removes the domination, revenge, nemisis sounds
+removes the domination, revenge, nemisis sounds.
 still shows dom notifs in killfeed and on scoreboard.
