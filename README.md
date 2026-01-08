@@ -4,6 +4,9 @@ Peace and quiet
 # how to install
 just put these in your tf/custom folder
 
+# issues
+sometimes sounds will bug out, and it'll make a horendus sound, if that happens just put "snd_restart" into your console and it should fix itself.
+
 ## nosiren
 removes siren at the start of the round
 
@@ -24,3 +27,6 @@ credit to user "install gentoo" on gamebanana who made this in 2011, I just clea
 ## no domination sounds
 removes the domination, revenge, nemisis sounds.
 still shows dom notifs in killfeed and on scoreboard.
+
+## no pass impact sound
+removes the special impact sound when you pass to someone far away.
